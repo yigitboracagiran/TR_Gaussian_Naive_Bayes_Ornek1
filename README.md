@@ -28,9 +28,9 @@ kullanıcıya döndürülmüştür.
 
 10- En sonunda ise doğruluk oranının yüzdesi aşağıdaki formül ile hesaplanmıştır:
 
-doğruluk oranı = (doğru tahmin * 100 ) / (doğru tahmin + yanlış tahmin)
+Doğruluk Oranı = (Doğru Tahmin * 100 ) / (Doğru Tahmin + Yanlış Tahmin)
 
 11- Algortimanın tamamlanması üzerine tüm veriler üzerinde hazırlanan algoritma
 denenmiştir.
 
-12- Yapılan eğitimin sonunda elde edilen sonuç %89.98530852105779 olmuştur.
+12- Yapılan eğitimin sonunda elde edilen doğruluk oranı %89.98530852105779 hesaplanmıştır.
