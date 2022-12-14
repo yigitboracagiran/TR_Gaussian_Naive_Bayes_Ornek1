@@ -17,13 +17,13 @@ sayısal verilerde hesaplama yapılması gerekmiştir ve aşağıdaki formül ku
 ( 1 / ( Sınıfın Standart Sapması * ( 2 * e ^ [ ( -0.5 ) * ( [ Test Verisi – Sınıfın Ortalaması ] / Sınıfın
 Standart Sapması ] ^ 2 ) ) ) * ( Sınıf Kaç Adet Bulunduğu / Toplam Sınıf Sayısı )
 
-6- Bu formülü kullanılabilmesi için sınıfların standart sapması ve ortalaması hsaplanmıştır.
+6- Bu formülün kullanılabilmesi için sınıfların standart sapması ve ortalaması hesaplanmıştır.
 
 7- Her test verisinin her sınıf için olasıkları hesaplanmıştır.
 
-8- Olasılıklar arasında en yükseği seçilmiştir ve tahmin edilen sınıf bulunmuştur.
+8- Hesaplanan olasılıklar arasında en yükseği seçilmiştir ve tahmin edilen sınıf bulunmuştur.
 
-9- Tahmin edilen sınıf ile, test verisinin gerçek sınıfı karşılaştırılmış, doğru veya yanlış tahmin olarak
+9- Tahmin edilen sınıf ile, test verisinin gerçek sınıfı karşılaştırılmış, doğru veya yanlış tahmin edildi bilgisi
 kullanıcıya döndürülmüştür.
 
 10- En sonunda ise doğruluk oranının yüzdesi aşağıdaki formül ile hesaplanmıştır:
