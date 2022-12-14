@@ -11,6 +11,7 @@ tutulmuştur.
 
 5- Tüm nitelikler sayısal değere sahip olduğu için test verilerinin hangi sınıftan oluğu hesaplanırken
 sayısal verilerde hesaplama yapılması gerekmiştir ve aşağıdaki formül kullanılmıştır:
+
 ( 1 / ( Sınıfın Standart Sapması * ( 2 * e ^ [ ( -0.5 ) * ( [ Test Verisi – Sınıfın Ortalaması ] / Sınıfın
 Standart Sapması ] ^ 2 ) ) ) * ( Sınıf Kaç Adet Bulunduğu / Toplam Sınıf Sayısı )
 
@@ -24,6 +25,7 @@ Standart Sapması ] ^ 2 ) ) ) * ( Sınıf Kaç Adet Bulunduğu / Toplam Sınıf 
 kullanıcıya döndürülmüştür.
 
 10- En sonunda ise doğruluk oranının yüzdesi aşağıdaki formül ile hesaplanmıştır:
+
 doğruluk oranı = (doğru tahmin * 100 ) / (doğru tahmin + yanlış tahmin)
 
 11- Algortimanın tamamlanması üzerine tüm veriler üzerinde hazırlanan algoritma
